@@ -12,6 +12,7 @@
   "dependencies": {
     "epress": "^0.0.1-security",
     "express": "^4.19.2",
+    "node-fetch": "^3.3.2",
     "nodemon": "^3.1.4"
   }
 }
